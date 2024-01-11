@@ -29,5 +29,4 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H7PLHYY)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ironic833&" alt="ironic833" /></p>
 
